@@ -1,10 +1,10 @@
 # Financial-Maths
-The aim of this project is to showcase financial maths concepts that I have learned in my university studies, creating functions in python which demonstrate these concepts.  The overall aim is to create a GUI financial calculator which calls upon these functions, allowing user input to compute various calculations.
+The aim of this project is to showcase financial maths concepts that I have learned in my university studies, creating functions in python which demonstrate these concepts.  The overall aim is to create a GUI financial calculator using Tkinter which calls upon these functions, allowing user input to compute various calculations.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 Updates:
-19/02/2020 - uploaded completed files
+19/02/2020 - uploaded completed files, updated README and annuity.py
 
 ------------------------------------------------------------------------------------------------------------------------------
 
